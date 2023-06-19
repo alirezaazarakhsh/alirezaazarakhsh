@@ -1,9 +1,9 @@
-# WELCOM TO GITHUB ME
+# hi! thia is my github 
 
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinhost.png" alt="sevinhost"width="300px">
+  <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinhost.png" alt="sevinhost"width="250px">
   <br>
    Alireza : Manager and Founder
   <br>
