@@ -26,7 +26,7 @@ I am Alireza Azarakhsh, born in 1378 (1999) from Tehran. I have been actively wo
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   &nbsp; &nbsp;
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  &nbsp; &nbsp;
 <a href="#" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="CSS3" height="50" /></a>   &nbsp; &nbsp;
-<a href="#" target="_blank"><img style="margin: 5px" src="https://cdn-images.himalayas.app/9w3a704t88nxt617os94xdamvz15" alt="CSS3" height="50" /></a>   &nbsp; &nbsp;
+<a href="#" target="_blank"><img style="margin: 5px border-radius: 5px" src="https://cdn-images.himalayas.app/9w3a704t88nxt617os94xdamvz15" alt="CSS3" height="50" /></a>   &nbsp; &nbsp;
 
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
