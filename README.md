@@ -6,12 +6,10 @@
   <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinhost.png" alt="sevinhost"width="300px">
   <br>
   sevinhost company 
-  <br><br>
-  Founder - alirezaazarakhsh
   <br>
 </h1>
 
-<h4 align="center">This is alirezaazarakhsh! A junior front end developer, also known as sevinhost!</h4>
+<h4 align="center">Alireza Azarkhosh is the manager and founder of SevinHost for over 7 years.</h4>
 
 ## My expertise
 
