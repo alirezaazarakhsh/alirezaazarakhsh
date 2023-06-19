@@ -40,3 +40,7 @@ I am Alireza Azarakhsh, born in 1378 (1999) from Tehran. I have been actively wo
 <a href="https://t.me/sashazz2">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
+<a href="https://github.com/alirezaazarakhsh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
