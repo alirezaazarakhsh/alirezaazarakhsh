@@ -1,5 +1,4 @@
-# hi! thia is my github 
-
+<strong> HI ! THIS IS MY GITHUB </strong>
 
 <h1 align="center">
   <br>
