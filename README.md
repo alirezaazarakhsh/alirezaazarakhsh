@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinhost.png" alt="sevinhost">
+  <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinhost.png" alt="sevinhost"width="500px">
   <br>
   sevinhost company 
   <br>
