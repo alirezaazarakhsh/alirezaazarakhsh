@@ -1,7 +1,7 @@
 # alirezaazarakhsh
 
 
-<h1 align="center">
+<h1 align="rtl">
   <br>
   <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinhost.png" alt="sevinhost"width="300px">
   <br>
