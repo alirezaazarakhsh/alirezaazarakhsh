@@ -25,7 +25,7 @@ I am Alireza Azarakhsh, born in 1378 (1999) from Tehran. I have been actively wo
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>   &nbsp; &nbsp;
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   &nbsp; &nbsp;
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  &nbsp; &nbsp;
-<a href="https://www.w3schools.com/tailwind/" target="_blank"><img style="margin: 5px" src="[https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg](https://profilinator.rishav.dev/skills-assets/tailwind-original.svg)" alt="CSS3" height="50" /></a>   &nbsp; &nbsp;
+<a href="https://www.w3schools.com/tailwind/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tailwind-original.svg" alt="CSS3" height="50" /></a>   &nbsp; &nbsp;
 
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
