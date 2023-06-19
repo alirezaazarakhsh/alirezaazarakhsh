@@ -4,12 +4,15 @@
   <br>
   <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinlogo2.webp" alt="sevinhost"width="250px">
   <br>
-   Alireza : Founer of Sevin-Group
+   Alireza : Founder of Sevin-Group
   <br>
   <br>
 </h1>
 
-<h4 align="center">I am Alireza Azarkhosh, born in Tehran, Iran. I have been active in the field of web development and application development for approximately 10 years.</h4>
+## BIO
+
+<h4 align="center">
+I am Alireza Azarakhsh, born in 1378 (1999) from Tehran. I have been actively working in the field of front-end programming and application development for about 10 years.</h4>
 
 ## My expertise
 
