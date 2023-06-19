@@ -4,7 +4,7 @@
   <br>
   <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinlogo2.webp" alt="sevinhost"width="250px">
   <br>
-   Alireza : Founer Sevin-Group
+   Alireza : Founer of Sevin-Group
   <br>
   <br>
 </h1>
