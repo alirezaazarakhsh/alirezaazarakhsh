@@ -7,6 +7,8 @@
   <br>
   sevinhost company 
   <br>
+  Founder - alirezaazarakhsh
+  <br>
 </h1>
 
 <h4 align="center">This is alirezaazarakhsh! A junior front end developer, also known as sevinhost!</h4>
