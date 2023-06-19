@@ -5,11 +5,11 @@
   <br>
   <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinhost.png" alt="sevinhost"width="300px">
   <br>
-  sevinhost company 
+   Alireza : Manager and Founder
   <br>
 </h1>
 
-<h4 align="center">Alireza Azarkhosh is the manager and founder of SevinHost for over 7 years.</h4>
+<h4 align="center">I am Alireza Azarkhosh, born in Tehran, Iran. I have been active in the field of web development and application development for approximately 10 years.</h4>
 
 ## My expertise
 
