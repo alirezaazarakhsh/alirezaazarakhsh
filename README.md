@@ -12,7 +12,8 @@
 ## BIO
 
 <h4 align="center">
-I am Alireza Azarakhsh, born in 1378 (1999) from Tehran. I have been actively working in the field of front-end programming and application development for about 10 years.</h4>
+I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both front-end and back-end technologies. I am actively coding and building modern, scalable web applications. Currently, I am exploring new tools, frameworks, and best practices to enhance my skills and create seamless user experiences.
+
 
 ## My expertise
 
