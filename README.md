@@ -27,6 +27,7 @@ I am Alireza Azarakhsh, born in 1378 (1999) from Tehran. I have been actively wo
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px background-color: white" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>   &nbsp; &nbsp;
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="50" /></a>  &nbsp; &nbsp;
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/MariaDB_logo.svg" alt="MariaDB" height="50" /></a>  &nbsp; &nbsp;
+<a href="https://en.wikipedia.org/wiki/DevOps" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/DevOps_Logo_2016.svg" alt="DevOps" height="50" /></a>  &nbsp; &nbsp;
 </div>
 
 ## Contact Information
