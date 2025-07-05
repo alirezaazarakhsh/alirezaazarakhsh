@@ -26,7 +26,7 @@ I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both f
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="50" /></a>
-  <a href="https://mariadb.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" 
+  <a href="https://mariadb.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"  
 </div>
 
 ## Contact Information
