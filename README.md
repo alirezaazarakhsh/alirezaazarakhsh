@@ -17,6 +17,9 @@ I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both f
 
 ## My expertise
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 <div align="left" style="border-radius:8px; display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.python.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" height="50" /></a>
