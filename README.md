@@ -30,7 +30,7 @@ I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both f
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MatinHedayat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alirezaazarakhsh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Contact Information
 <p align="center">
