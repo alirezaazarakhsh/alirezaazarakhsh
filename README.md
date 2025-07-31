@@ -9,31 +9,33 @@
   <br>
 </h1>
 
+<br>
+
 ## BIO
 
-<h4 align="left">
+<h5 align="left">
 I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both front-end and back-end technologies. I am actively coding and building modern, scalable web applications. Currently, I am exploring new tools, frameworks, and best practices to enhance my skills and create seamless user experiences.
-</h4>
+</h5>
+
+
 
 ## My expertise
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+ ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<div align="left" style="border-radius:8px; display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" height="50" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="50" /></a>
-  <a href="https://mariadb.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"  
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alirezaazarakhsh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 ## Contact Information
 <p align="left">
@@ -41,6 +43,8 @@ I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both f
   <br>
   Phone: <a href="tel:+989120759419">+989120759419</a>
 </p>
+
+<br>
 
 ## My social networks
 <a href="https://instagram.com/alirezaazarakhsh">
