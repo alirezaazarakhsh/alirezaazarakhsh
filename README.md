@@ -1,6 +1,6 @@
 <h1> HI ! THIS IS MY GITHUB </h1>
 
-<h1 align="center">
+<h1 align="left">
   <br>
   <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinlogo2.webp" alt="sevinhost" width="250px">
   <br>
@@ -11,13 +11,13 @@
 
 ## BIO
 
-<h4 align="center">
+<h4 align="left">
 I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both front-end and back-end technologies. I am actively coding and building modern, scalable web applications. Currently, I am exploring new tools, frameworks, and best practices to enhance my skills and create seamless user experiences.
 </h4>
 
 ## My expertise
 
-<div align="center" style="border-radius:8px; display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="left" style="border-radius:8px; display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.python.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" height="50" /></a>
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a>
@@ -33,7 +33,7 @@ I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both f
 ![](https://github-profile-trophy.vercel.app/?username=alirezaazarakhsh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Contact Information
-<p align="center">
+<p align="left">
   Email: <a href="mailto:alirezaazarakhsh20@gmail.com">alirezaazarakhsh20@gmail.com</a>
   <br>
   Phone: <a href="tel:+989120759419">+989120759419</a>
