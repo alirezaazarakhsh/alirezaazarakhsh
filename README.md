@@ -29,6 +29,9 @@ I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both f
   <a href="https://mariadb.org/" target="_blank"><img style="margin: 15px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"  
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MatinHedayat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## Contact Information
 <p align="center">
   Email: <a href="mailto:alirezaazarakhsh20@gmail.com">alirezaazarakhsh20@gmail.com</a>
@@ -48,3 +51,6 @@ I am Alireza Azarakhsh, a passionate full-stack developer with a focus on both f
 <a href="https://github.com/alirezaazarakhsh" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
+
+
+
